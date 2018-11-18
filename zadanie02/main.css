@@ -26,7 +26,7 @@ ul, li {
    position: relative;
    left: 25%;
    margin-left: 220px;
-   height: 100%;
+   height: min-height;
 }
 
 .page-footer
