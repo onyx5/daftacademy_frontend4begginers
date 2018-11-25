@@ -41,6 +41,11 @@ ul, li * {
    left: 25%;
 }
 
+.content-section {
+    margin-top: 30%;
+    padding-bottom: 20%;
+}
+
 .band-members__item
 {
     display: inline-block;
@@ -91,6 +96,7 @@ ul, li * {
 .contact {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 
 .contact img {
@@ -101,7 +107,6 @@ ul, li * {
 .contact address {
     width: 50%;
     align-self: center;
-    vertical-align: center;
 }
 
 .contact .form {
