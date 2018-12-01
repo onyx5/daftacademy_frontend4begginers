@@ -128,6 +128,7 @@ ul, li * {
 {
     display:block;
     padding-bottom: 5px;
+    color: #ccc8ff50;
 }
 
 .form__label
